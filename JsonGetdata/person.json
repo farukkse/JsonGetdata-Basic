@@ -1,0 +1,16 @@
+[
+  {
+    "ID": "1",
+    "Name": "Alaca",
+    "LastName": "Olkar",
+    "Birthday": "1920/4/23 13:00:00",
+    "Weight": "75.50"
+  },
+  {
+    "ID": "2",
+    "Name": "Kaan",
+    "LastName": "Pusat",
+    "Birthday": "1923/10/29 14:00:00",
+    "Weight": "70.25"
+  }
+]
